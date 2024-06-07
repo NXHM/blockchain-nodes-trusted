@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Substrate Node Template
 
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
@@ -224,5 +223,5 @@ here](https://github.com/paritytech/polkadot-sdk/blob/master/substrate/docker/RE
 build the Docker container with the Substrate Node Template binary.
 =======
 # blockchain-nodes-trusted
-Following https://docs.substrate.io/tutorials/build-a-blockchain/add-trusted-nodes/ and https://docs.substrate.io/tutorials/smart-contracts/
->>>>>>> 37a0b1719bdfed64752e6296ed76c2b536b19418
+Following https://docs.substrate.io/tutorials/build-a-blockchain/add-trusted-nodes/
+
