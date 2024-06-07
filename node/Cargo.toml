@@ -22,6 +22,8 @@ clap = { version = "4.5.3", features = ["derive"] }
 futures = { version = "0.3.30", features = ["thread-pool"] }
 serde_json = { version = "1.0.114", default-features = true }
 jsonrpsee = { version = "0.22", features = ["server"] }
+# bs58 = { version = "0.4.0" }
+
 
 # substrate client
 sc-cli = { git = "https://github.com/paritytech/polkadot-sdk.git", tag = "polkadot-v1.9.0" }
